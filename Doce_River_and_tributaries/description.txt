@@ -1,0 +1,5 @@
+In November 2015, the world's worst mining disaster took place in a small town in the state of Minas Gerais, Brazil. The Fundao Dam collapsed, discharging circa 50 million cubic meters of iron ore and silica tailings into 853 km of the Doce River and tributaries, up to the Atlantic coast. This mud tsunami wiped out an entire village, causing 19 human deaths and severe damage to aquatic and terrestrial biota.In this study, we investigate the mud tsunami impact over the resistome and virulome of the sediment microbiome of two disturbed rivers, and a reference (undisturbed) river, over the course of 390 days postdisaster.
+
+...175: Disturbed Casca River day 30
+...171: Undisturbed Agua Fria River day 30
+
